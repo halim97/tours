@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.line{
+  height: 3px;
+  width: 120px;
+  background-color: black;
+  margin-bottom: 40px;
+  margin-left: 46%;
+
+}
+
+
+@font-face {
+  font-family: 'Halloween Kingdom Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Halloween Kingdom Regular'), url('HalloweenKingdom-8Mq7Z.woff') format('woff');
+  }
+
+.bigTitle{
+  font-family: 'Halloween Kingdom Regular';
+  color: black;
+  font-weight: 500;
+  
+  margin-bottom: 0px;
+  margin-top: 20px;
+  
+}

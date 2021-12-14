@@ -1,0 +1,41 @@
+.tourContainer{
+    height: auto;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 6px 6px 6px 6px;
+    margin-bottom:20px ;
+    margin-left: 30%;
+    
+}
+
+.titlePrice{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image{
+    height: 20rem;
+    width: 100%;
+    border-radius: 6px 6px 0px 0px;
+}
+.button{
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: black solid 2px;
+}
+.info{
+    color: grey;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.titlePrice{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
